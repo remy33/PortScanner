@@ -1,0 +1,8 @@
+localhost 8080
+duckduckgo.com 80
+duckduckgo.com 443
+localhost 22
+duckduckgo.com 9999
+google.com 80
+google.com 443
+dnsnonexisttest.com 443
